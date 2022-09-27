@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.mad_practical6_20012021053">
 
+    <!--Permision to access the internet tot play video in Internet-->
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
